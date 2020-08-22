@@ -1,0 +1,1 @@
+[null,{"name":"Wchodzenie","temp":"user","event-type":"6","_id":"qkPAN","actions":[{"info":"0","find":"746672326061588594","storage":"1","varName":"kanal","name":"Find Channel"},{"channel":"5","varName":"kanal","message":"Witamy ${tempVars(\"user\")} na serwerze","storage":"0","varName2":"","name":"Send Message"}]}]
